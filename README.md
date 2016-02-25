@@ -1,6 +1,6 @@
 # Scaley
 
-Exports a single function: `scale()`.
+Exports a single function: `scale(input, inmin, inmax, outmin, outmax)`.
 
 The function takes 5 arguments:
 
