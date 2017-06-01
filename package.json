@@ -1,0 +1,26 @@
+{
+  "name": "scaley",
+  "version": "1.0.0",
+  "description": "javascript function to scale a number between ranges",
+  "main": "scaley.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "should": "^8.2.2"
+  },
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ffomezolam/scaley.git"
+  },
+  "author": "Andrew Malozemoff",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ffomezolam/scaley/issues"
+  },
+  "homepage": "https://github.com/ffomezolam/scaley#readme"
+}
